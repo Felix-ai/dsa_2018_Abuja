@@ -4,7 +4,7 @@
 
 ![dsalogo-Abuja](dsalogo-Abuja.png)
 
-#### Instaructions
+#### Instructions
 
 1. Make sure you are using a version of notebook greater than v.3. If you installed Anaconda with python 3 - this is likely to be fine. The next piece of code will check if you have the right version.
 2. The notebook has both some open test cases that you can use to test the functionality of your code - however it will be run on another set of test cases that you can't from which marks will be awarded. So passing all the tests in this notebook is not a guarantee that you have done things correctly - though its highly probable.
